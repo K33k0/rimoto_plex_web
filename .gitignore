@@ -338,3 +338,4 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/rimoto_plex_web/env
